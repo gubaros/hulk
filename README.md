@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hulk - Input Detector Extension for VS Code
 
 Hulk is a Visual Studio Code extension that detects whether the input in the editor is manual or AI-generated. It uses heuristics such as typing speed and the size of inserted text to classify the input.
@@ -31,3 +32,7 @@ Hulk is a Visual Studio Code extension that detects whether the input in the edi
 ### 0.0.1
 - Initial release with basic input detection.
 
+=======
+# hulk
+A vscode plugin that attempts to detect human vs AI code, purely a research piece as of now. 
+>>>>>>> 68273e4caefe2d494f89659f79044d88b69d55e8
