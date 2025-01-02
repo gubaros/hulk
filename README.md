@@ -28,7 +28,7 @@ Hulk is a Visual Studio Code extension that detects whether the input in the edi
 - Heuristics might not perfectly distinguish inputs in all scenarios.
 
 ## Release Notes
-### 0.0.1
+### 0.0.4
 - Initial release with basic input detection.
 
 =======
